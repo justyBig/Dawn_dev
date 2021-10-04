@@ -16,7 +16,7 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "Welcome to my Git Connected Store",
+              "text": "Welcome to my Git Connected Store Push from Local",
               "color_scheme": "background-1",
               "link": ""
             }
